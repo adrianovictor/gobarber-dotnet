@@ -1,0 +1,28 @@
+# compiled output
+/backend/GoBarber.Api/dist
+/backend/GoBarber.Api/temp
+/backend/GoBarber.Api/out-tsc
+
+# Visual Studio 2015 cache/options directory
+/backend/GoBarber.Api/.vs/
+
+# Visual Studio profiler
+/backend/GoBarber.Api/*.psess
+/backend/GoBarber.Api/*.vsp
+/backend/GoBarber.Api/*.vspx
+/backend/GoBarber.Api/*.sap
+
+# Build results
+/backend/GoBarber.Api/[Dd]ebug/
+/backend/GoBarber.Api/[Dd]ebugPublic/
+/backend/GoBarber.Api/[Rr]elease/
+/backend/GoBarber.Api/[Rr]eleases/
+/backend/GoBarber.Api/[Xx]64/
+/backend/GoBarber.Api/[Xx]86/
+/backend/GoBarber.Api/[Bb]uild/
+/backend/GoBarber.Api/bld/
+/backend/GoBarber.Api/[Bb]in/
+/backend/GoBarber.Api/[Oo]bj/
+
+# dependecies
+/frontend/gobarber-web/node_modules

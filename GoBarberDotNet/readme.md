@@ -1,0 +1,3 @@
+### GoBarber
+
+GoBarber é uma aplicação para gerenciamento de horários em um salão de cabeleiros ou barbeiros. Inicalmente o projeto foi passado como um desafio do curso GoStack da RocketSeat, porém a proposta era desenvolve-lo usando NodeJs no backend, ReactJS no frontend e React Native no mobile. A ideia aqui é reescrever a aplicação utilizando .Net Core 2.2 para o backend, Angular para o frontend e manter o React Native no mobile.
